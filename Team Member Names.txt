@@ -1,2 +1,3 @@
 Add elkeen se naam op die txt file en push van n branch af. Die branch se naam moet ook jou naam wees.
 -Marius Minnie
+-Devon Volkwyn
